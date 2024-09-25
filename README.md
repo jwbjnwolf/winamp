@@ -1,3 +1,11 @@
+# That restrictive license sure works on Github Winamp doesn't it? 😂
+```
+No Distribution of Modified Versions: You may not distribute modified versions of the software, whether in source or binary form.
+```
+Say you don't understand git repositories without saying you don't understand. What are you going to do? Report every single fork for infringement when the whole nature of contributing requires forking.. and such forks need to be public for the contributing to even work. Thanks for the good laugh lmfao.
+
+---
+
 # Winamp
 
 ## About
