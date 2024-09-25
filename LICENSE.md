@@ -1,4 +1,4 @@
-# Winamp Collaborative License (WCL) Version 1.0.1
+# Winamp Collaborative License (WCL) Version 1.0.1 (that violates Github ToS lmfao)
 
 This License governs the use, modification, and distribution of the Winamp software. 
 By using, Modifying, or distributing this software, you agree to the following terms:
